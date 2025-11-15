@@ -57,7 +57,7 @@
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/AdemElwafi/UMLify">
+  <a href="https://github.com/Adem-Elwafi/UMLify">
     <img src="https://img.shields.io/badge/UMLify-Interactive%20UML%20Tool-blue?style=for-the-badge" />
   </a>
   <br />
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdemElwafi/game-downloader">
+  <a href="https://github.com/Adem-Elwafi/game-downloader">
     <img src="https://img.shields.io/badge/Game%20Downloader-Simple%20&%20Fast-blue?style=for-the-badge" />
   </a>
   <br />
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdemElwafi/habit-tracker">
+  <a href="https://github.com/Adem-Elwafi/habit-tracker">
     <img src="https://img.shields.io/badge/Habit%20Tracker-Stay%20Consistent-blue?style=for-the-badge" />
   </a>
   <br />
@@ -86,7 +86,7 @@
   <a href="mailto:adem.elwafi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ademelwafi">
+  <a href="https://www.linkedin.com/in/adem-elwafi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ademelwafi.com">
@@ -97,9 +97,13 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdemElwafi&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Adem-Elwafi&label=Profile+Views&color=blue&style=flat" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemElwafi&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adem-Elwafi&show_icons=true&theme=dark&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemElwafi&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-Elwafi&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" />
 </p>
