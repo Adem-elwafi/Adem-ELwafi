@@ -12,7 +12,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx5ZWhubHA4bGdjdTQ0YjMxY28zOTBqdGZwOWlob3BqdThwdGxoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
 <p align="center">
@@ -105,5 +105,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ3bGZwYW9ncG83Z2lqZzFwM2N1dWZpMnk2amxvNHYzZHY3c244MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rpVYcs1rWB6bFIsdCb/giphy.gif" width="400" />
 </p>
