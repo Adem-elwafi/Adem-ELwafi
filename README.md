@@ -1,86 +1,150 @@
-<h1 align="center">Hi there 👋, I'm Adem Elwafi</h1>
-<h3 align="center">Front-End Developer | Curious Learner | PHP Explorer</h3>
+<div align="center">
+  <!-- Animated Banner -->
+  <a href="https://github.com/Adem-Elwafi">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adem%20Elwafi&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer&descSize=24&descAlignY=70&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  </a>
+  
+  <br />
+  
+  <!-- Fixed Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00E0FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Adem+Elwafi;Full-Stack+Developer+🇹🇳;React+•+TypeScript+•+Laravel;Real-time+Web+Applications;Clean+Code+Enthusiast" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding animation" />
+  <br />
+  <em>Turning ideas into interactive experiences</em>
+</div>
+
+<br />
+
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  Passionate <strong>Full-Stack Developer</strong> from Tunisia 🇹🇳 specializing in modern web technologies.<br />
+  I build scalable applications with emphasis on performance, clean architecture, and exceptional user experience.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+with+a+touch+of+PHP;Building+UMLify,+Game+Downloader,+Habit+Tracker;Exploring+Figma+for+a+class+project;Curious+about+clean+code+and+cool+projects" />
-</p>
-
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx5ZWhubHA4bGdjdTQ0YjMxY28zOTBqdGZwOWlob3BqdThwdGxoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+  <strong>🌍 Languages:</strong> Arabic (Native) · English (Fluent) · French (Basic)<br />
+  <strong>🎯 Focus:</strong> Full-Stack · Real-time Apps · Scalable Architecture
 </p>
 
 <p align="center">
-  Hey there! I'm <strong>Adem Elwafi</strong>, a passionate <strong>Front-End Developer</strong> based in Tunisia 🇹🇳. I love building clean, responsive interfaces and exploring new ways to make the web more interactive.
+  When not coding: Organizing life, family time, exploring new tools, or chasing that next micro-habit win.
 </p>
 
-<p align="center">
-  Although I mostly work on front-end projects, I’ve dipped my toes into full-stack development with PHP — and I’m always curious to learn more. Right now, I’m studying and building cool stuff like <strong>UMLify</strong>, <strong>Game Downloader</strong>, and a <strong>Habit Tracker</strong> to sharpen my skills.
-</p>
+<br />
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  I’m also working on a one-time <strong>Figma-based UI project</strong> for class — just a quick dive into design to understand the user side better.
-</p>
-
-<p align="center">
-  When I’m not coding, I’m probably organizing my space, updating my portfolio, or hanging out with family and friends. Let’s build something awesome together!
-</p>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <br />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-<h2 align="center">⚙️ Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br />
+  
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<h2 align="center">🚀 Projects</h2>
+<br />
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>💬 Real-Time Chat App</h3>
+      <p>Full-featured real-time messaging platform</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20" />
+        <img src="https://img.shields.io/badge/React-61DAFB" />
+        <img src="https://img.shields.io/badge/WebSocket-010101" />
+      </p>
+      <a href="https://github.com/Adem-Elwafi/real-time-chat-app">View Project →</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>📝 Blog Platform</h3>
+      <p>Modern blog with WYSIWYG editor</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20" />
+        <img src="https://img.shields.io/badge/React-61DAFB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1" />
+      </p>
+      <a href="https://github.com/Adem-Elwafi/blog-platform">View Project →</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>📊 UMLify</h3>
+      <p>Collaborative UML diagram creator</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D" />
+        <img src="https://img.shields.io/badge/Node.js-339933" />
+        <img src="https://img.shields.io/badge/WebSocket-010101" />
+      </p>
+      <a href="https://github.com/Adem-Elwafi/UMLify">View Project →</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/Adem-Elwafi/UMLify">
-    <img src="https://img.shields.io/badge/UMLify-Interactive%20UML%20Tool-blue?style=for-the-badge" />
+  <a href="https://github.com/Adem-Elwafi?tab=repositories">
+    <strong>🔍 Explore All Repositories</strong>
   </a>
-  <br />
-  <strong>UMLify</strong> — A web app for creating and sharing UML diagrams. Built with real-world communication in mind.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Adem-Elwafi/game-downloader">
-    <img src="https://img.shields.io/badge/Game%20Downloader-Simple%20&%20Fast-blue?style=for-the-badge" />
-  </a>
-  <br />
-  <strong>Game Downloader</strong> — A lightweight tool to fetch and organize game files. Focused on speed and simplicity.
-</p>
+<br />
 
-<p align="center">
-  <a href="https://github.com/Adem-Elwafi/habit-tracker">
-    <img src="https://img.shields.io/badge/Habit%20Tracker-Stay%20Consistent-blue?style=for-the-badge" />
-  </a>
-  <br />
-  <strong>Habit Tracker</strong> — Track your daily habits and build routines. Designed for clarity and motivation.
-</p>
+## 📈 GitHub Stats
 
-<h2 align="center">📫 Contact & Socials</h2>
+<div align="center">
+  
+  <!-- Contribution Graph Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adem-Elwafi/Adem-Elwafi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adem-Elwafi/Adem-Elwafi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adem-Elwafi/Adem-Elwafi/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  
+  <br />
+  
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adem-Elwafi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adem-Elwafi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  
+  <br /><br />
+  
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-Elwafi&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="Streak" width="90%" />
+  
+  <br /><br />
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Adem-Elwafi&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" width="90%" />
+  
+</div>
+
+<br />
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:adem.elwafi@gmail.com">
@@ -90,20 +154,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ademelwafi.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adem-Elwafi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adem-Elwafi&label=Profile+Views&color=blue&style=flat" />
+<div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adem-Elwafi&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-Elwafi&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ3bGZwYW9ncG83Z2lqZzFwM2N1dWZpMnk2amxvNHYzZHY3c244MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rpVYcs1rWB6bFIsdCb/giphy.gif" width="400" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Adem-Elwafi&label=Profile+Views&color=00E0FF&style=flat-square" alt="Views" />
+  <br /><br />
+  <p><strong>Let's create something amazing together! 🚀</strong></p>
+  
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="footer banner" />
+</div>
