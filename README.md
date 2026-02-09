@@ -7,7 +7,10 @@
   <br />
   
   <!-- Fixed Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00E0FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Adem+Elwafi;Full-Stack+Developer+🇹🇳;React+•+TypeScript+•+Laravel;Real-time+Web+Applications;Clean+Code+Enthusiast" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E0FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Adem+Elwafi;Full-Stack+Developer+🇹🇳;React+•+TypeScript+•+Laravel;Real-time+apps+%26+clean+architecture;Always+learning+&+building" 
+  alt="Typing SVG"
+/>
 </div>
 
 <br />
