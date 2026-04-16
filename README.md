@@ -1,24 +1,23 @@
 <div align="center">
   <!-- Animated Banner -->
   <a href="https://github.com/Adem-Elwafi">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adem%20Elwafi&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer&descSize=24&descAlignY=70&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=180&section=header&text=Adem%20Elwafi&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer&descSize=24&descAlignY=70&fontColor=ffffff&animation=fadeIn" alt="header banner" />
   </a>
   
   <br />
   
-  <!-- Fixed Typing SVG -->
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E0FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Adem+Elwafi;Full-Stack+Developer+🇹🇳;React+•+TypeScript+•+Laravel;Real-time+apps+%26+clean+architecture;Always+learning+&+building" 
-  alt="Typing SVG"
-/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E0FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Adem+Elwafi;Full-Stack+Developer+%F0%9F%87%B9%F0%9F%87%B3;React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot;Real-time+apps+%26+clean+architecture;Always+learning+%26+building" 
+    alt="Typing SVG"
+  />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="coding animation" />
   <br />
-  <em>Turning ideas into interactive experiences</em>
+  <em>Engineering real-time experiences, one commit at a time</em>
 </div>
 
 <br />
@@ -53,19 +52,20 @@
   <br />
   
   <!-- Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <br />
   
-  <!-- Tools & Others -->
+  <!-- Database & DevOps -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
@@ -75,33 +75,52 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>💬 Real-Time Chat App</h3>
-      <p>Full-featured real-time messaging platform</p>
+    <td width="50%" align="center">
+      <h3>⚡ CollabCode</h3>
+      <p>Real-time collaborative code editor — "Google Docs for Code." Built for teams of developers to write, sync, and chat simultaneously in shared coding rooms.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20" />
-        <img src="https://img.shields.io/badge/React-61DAFB" />
-        <img src="https://img.shields.io/badge/WebSocket-010101" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebSocket_STOMP-010101?style=flat" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Monaco_Editor-0078D4?style=flat&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      </p>
+      <p>
+        ✅ JWT-secured WebSocket handshakes &nbsp;|&nbsp; ✅ Room-based multi-tenant sync<br/>
+        ✅ Async DB persistence &nbsp;|&nbsp; ✅ Presence detection (Join/Leave)
+      </p>
+      <a href="https://github.com/Adem-Elwafi/CollabCode">View Project →</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>💬 Real-Time Chat App</h3>
+      <p>Full-featured real-time messaging platform with rooms, live delivery indicators, and user presence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat" />
       </p>
       <a href="https://github.com/Adem-Elwafi/real-time-chat-app">View Project →</a>
     </td>
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>📝 Blog Platform</h3>
-      <p>Modern blog with WYSIWYG editor</p>
+      <p>Modern blog with WYSIWYG editor, categories, and user management.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20" />
-        <img src="https://img.shields.io/badge/React-61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       </p>
       <a href="https://github.com/Adem-Elwafi/blog-platform">View Project →</a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3>📊 UMLify</h3>
-      <p>Collaborative UML diagram creator</p>
+      <p>Collaborative UML diagram creator with real-time multi-user editing support.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D" />
-        <img src="https://img.shields.io/badge/Node.js-339933" />
-        <img src="https://img.shields.io/badge/WebSocket-010101" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat" />
       </p>
       <a href="https://github.com/Adem-Elwafi/UMLify">View Project →</a>
     </td>
@@ -171,5 +190,5 @@
   <p><strong>Let's create something amazing together! 🚀</strong></p>
   
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=100&section=footer&animation=twinkling" alt="footer banner" />
 </div>
